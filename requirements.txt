@@ -4,16 +4,10 @@ numpy
 matplotlib
 groq
 langchain_community
+langchain
 langchain_groq
-yfinance
-plotly
 langchain_core
 llama-parse 
 python-dotenv
 streamlit-chat
-scikit-learn
-sentence-transformers
-faiss-cpu  
-tiktoken
 notebook
-statsmodels
