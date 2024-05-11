@@ -4,12 +4,13 @@ from dotenv import load_dotenv
 from langchain.chains import ConversationChain
 from langchain.memory import  ConversationBufferWindowMemory
 from langchain_core.prompts.prompt import PromptTemplate
+import streamlit as st
 import os
 
 load_dotenv()
 
 # setting up groq api key
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["GROQ_API_KEY"] = st.secrets.GROQ_API_KEY
 
 # chat set up
 class DataScienceConsultant:
