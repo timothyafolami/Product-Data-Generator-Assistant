@@ -8,6 +8,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.output_parsers import JsonOutputParser
 from dotenv import load_dotenv
 from utils import *
+from data_helper import Data_Generator, initiator
 import streamlit as st
 from streamlit_chat import message
 import os
@@ -25,7 +26,7 @@ st.title("🤖 Chat with Data Generator")
 
 # initial message
 INIT_MESSAGE = {"role": "assistant",
-                "content": "Hello! I am a Data Science Consultant. I will help you create the right data for your product. "}
+                "content": "Hello! I am a Data Science Consultant. I will help you create the right data for your project. "}
 
 
 def init_conversationchain() -> ConversationChain:
@@ -84,3 +85,13 @@ if st.session_state.messages[-1]["role"] != "assistant":
     st.session_state.messages.append({"role": "assistant", "content": response})
     assistant_message = st.chat_message("assistant")
     assistant_message.write(response)
+
+    # checking the chat history
+    CHAT_HISTORY = st.session_state.messages
+    # checking back with initiator
+    initiate_ = initiator(CHAT_HISTORY)
+    if initiate_ =='START':
+        data_generation_ = Data_Generator(CHAT_HISTORY)
+        if data_generation_ == "Data generated successfully!":
+            st.balloons()
+            st.balloons()

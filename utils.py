@@ -2,7 +2,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 from langchain.chains import ConversationChain
-from langchain.memory import  ConversationBufferWindowMemory
+from langchain.memory import  ConversationBufferWindowMemory, ConversationBufferMemory
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts.prompt import PromptTemplate
 import streamlit as st
@@ -13,9 +13,11 @@ load_dotenv()
 # setting up groq api key
 os.environ["GROQ_API_KEY"] = st.secrets.GROQ_API_KEY
 
+memory_ = ConversationBufferMemory(ai_prefix="AI Assistant")
+
 # chat set up
 class DataScienceConsultant:
-    def __init__(self, temperature=0.5, model_name="llama3-8b-8192"):
+    def __init__(self, temperature=0.5, model_name="llama3-8b-8192", memory=memory_):
         self.chat = ChatGroq(temperature=temperature, model_name=model_name)
         self.chat_template = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
         You are a Data Science Consultant. You have over 20 years of experience in the field. 
@@ -31,7 +33,7 @@ class DataScienceConsultant:
             5. After for the intended data size. You can also suggest based on the project. The client can also specify the size.
             6. Collate all the information and present back to the client for review.
             7. Review thw generated code with the client requirements.
-            8. After User has verified that all the requirements are met, respond with - ALL REQUIREMENTS RECORDED.
+            8. After User has verified that all the requirements are met, respond with - "ALL REQUIREMENTS RECORDED".
 
         <|eot_id|><|start_header_id|>user<|end_header_id|>
         Current conversation:
@@ -41,11 +43,11 @@ class DataScienceConsultant:
         AI Assistant:"""
 
         PROMPT = PromptTemplate(input_variables=["history", "input"], template=self.chat_template)
-        chat_conversation = ConversationChain(
+        self.chat_conversation = ConversationChain(
             prompt=PROMPT,
             llm=self.chat,
             verbose=True,
-            memory=ConversationBufferWindowMemory(k=10, ai_prefix="AI Assistant"),
+            memory=memory,
             output_parser=StrOutputParser(),
         )
     def predict(self, input_text):
