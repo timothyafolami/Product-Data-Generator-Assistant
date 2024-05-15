@@ -17,7 +17,7 @@ memory_ = ConversationBufferMemory(ai_prefix="AI Assistant")
 
 # chat set up
 class DataScienceConsultant:
-    def __init__(self, temperature=0.5, model_name="llama3-8b-8192", memory=memory_):
+    def __init__(self, temperature=0, model_name="llama3-8b-8192", memory=memory_):
         self.chat = ChatGroq(temperature=temperature, model_name=model_name)
         self.chat_template = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
         You are a Data Science Consultant. You have over 20 years of experience in the field. 
