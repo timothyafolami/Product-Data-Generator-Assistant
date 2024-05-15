@@ -299,6 +299,7 @@ def Data_Generator(CHAT_HISTORY: list) -> str:
             print("Code Saved")
             # Exxecuting the codes
             execute = code_executor()
+            print(execute)
             return execute
         except Exception as e:
         # Capture the complete error, including the traceback

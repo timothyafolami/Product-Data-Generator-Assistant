@@ -88,6 +88,7 @@ if st.session_state.messages[-1]["role"] != "assistant":
 
     # checking the chat history
     CHAT_HISTORY = st.session_state.messages
+    print(CHAT_HISTORY)
     # checking back with initiator
     initiate_ = initiator(CHAT_HISTORY)
     if initiate_ =='START':
