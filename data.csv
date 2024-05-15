@@ -1,0 +1,1001 @@
+location,grade,quantity,price
+Memphis,gradeC,1,30.0
+Los Angeles,gradeD,1,30.0
+San Antonio,gradeB,3,30.0
+Dallas,gradeC,6,30.0
+San Jose,gradeB,4,30.0
+Columbus,gradeD,7,10.0
+San Francisco,gradeC,8,10.0
+San Diego,gradeC,6,20.0
+El Paso,gradeB,4,30.0
+New York,gradeB,7,20.0
+Boston,gradeA,2,10.0
+New York,gradeD,2,10.0
+San Francisco,gradeC,2,20.0
+Denver,gradeA,1,50.0
+Austin,gradeA,5,50.0
+Phoenix,gradeB,4,50.0
+San Francisco,gradeC,4,10.0
+Indianapolis,gradeC,9,50.0
+Chicago,gradeD,5,30.0
+Boston,gradeB,10,50.0
+Boston,gradeC,10,50.0
+Philadelphia,gradeD,10,50.0
+Chicago,gradeA,9,20.0
+San Jose,gradeD,6,30.0
+Fort Worth,gradeD,8,50.0
+Jacksonville,gradeD,3,10.0
+Detroit,gradeB,4,50.0
+Fort Worth,gradeA,10,10.0
+Memphis,gradeB,5,50.0
+Philadelphia,gradeC,6,50.0
+San Diego,gradeD,8,10.0
+Charlotte,gradeD,6,20.0
+San Jose,gradeB,8,50.0
+Seattle,gradeC,3,30.0
+Chicago,gradeC,4,10.0
+San Antonio,gradeA,6,50.0
+Boston,gradeA,1,30.0
+Indianapolis,gradeA,7,30.0
+Baltimore,gradeD,6,20.0
+Philadelphia,gradeB,2,10.0
+Philadelphia,gradeB,6,10.0
+El Paso,gradeB,7,10.0
+San Antonio,gradeA,1,30.0
+Austin,gradeA,4,10.0
+Charlotte,gradeA,3,20.0
+Charlotte,gradeA,9,20.0
+Fort Worth,gradeC,4,20.0
+Fort Worth,gradeC,5,20.0
+Chicago,gradeD,1,10.0
+Washington D.C.,gradeA,2,30.0
+Houston,gradeA,8,30.0
+Washington D.C.,gradeB,8,10.0
+Washington D.C.,gradeB,10,50.0
+San Francisco,gradeD,2,50.0
+Indianapolis,gradeD,8,10.0
+Austin,gradeA,4,50.0
+Charlotte,gradeD,10,50.0
+El Paso,gradeB,2,50.0
+Chicago,gradeD,10,10.0
+New York,gradeA,10,20.0
+Los Angeles,gradeA,2,20.0
+New York,gradeB,3,10.0
+Fort Worth,gradeC,10,30.0
+Houston,gradeB,10,30.0
+San Antonio,gradeA,4,30.0
+Philadelphia,gradeC,2,20.0
+San Francisco,gradeC,7,10.0
+Charlotte,gradeA,10,50.0
+Washington D.C.,gradeA,6,20.0
+Fort Worth,gradeC,7,10.0
+Boston,gradeC,5,20.0
+Philadelphia,gradeA,8,50.0
+Denver,gradeB,9,20.0
+San Francisco,gradeB,3,20.0
+Chicago,gradeC,4,50.0
+Chicago,gradeB,10,50.0
+El Paso,gradeA,7,10.0
+Denver,gradeB,2,50.0
+San Jose,gradeB,2,10.0
+Detroit,gradeB,2,30.0
+Washington D.C.,gradeB,1,50.0
+San Antonio,gradeD,6,20.0
+Houston,gradeA,10,50.0
+Washington D.C.,gradeA,6,30.0
+Seattle,gradeD,6,30.0
+Charlotte,gradeD,2,20.0
+Philadelphia,gradeC,2,30.0
+El Paso,gradeB,3,50.0
+El Paso,gradeA,10,30.0
+El Paso,gradeA,6,30.0
+Chicago,gradeC,7,20.0
+Los Angeles,gradeD,6,50.0
+Indianapolis,gradeB,3,30.0
+San Antonio,gradeA,9,30.0
+Philadelphia,gradeC,10,50.0
+Chicago,gradeD,5,10.0
+Baltimore,gradeA,1,10.0
+Charlotte,gradeD,4,30.0
+San Jose,gradeD,3,10.0
+Austin,gradeD,3,10.0
+Fort Worth,gradeA,2,20.0
+Denver,gradeB,9,10.0
+San Jose,gradeB,7,20.0
+San Diego,gradeB,6,10.0
+Charlotte,gradeD,3,30.0
+San Jose,gradeC,1,20.0
+San Diego,gradeA,1,10.0
+San Diego,gradeB,1,20.0
+Columbus,gradeB,7,30.0
+Austin,gradeA,3,20.0
+Jacksonville,gradeD,1,10.0
+Memphis,gradeD,1,10.0
+San Francisco,gradeB,8,50.0
+Los Angeles,gradeB,6,50.0
+Charlotte,gradeD,1,50.0
+San Antonio,gradeD,9,20.0
+Dallas,gradeB,3,50.0
+Memphis,gradeA,3,20.0
+Philadelphia,gradeB,2,10.0
+Fort Worth,gradeB,4,20.0
+Charlotte,gradeC,5,30.0
+Washington D.C.,gradeB,5,20.0
+Chicago,gradeC,3,50.0
+Charlotte,gradeC,1,10.0
+Washington D.C.,gradeD,10,50.0
+Houston,gradeD,1,30.0
+San Antonio,gradeD,9,30.0
+Austin,gradeA,6,50.0
+Houston,gradeB,5,20.0
+Columbus,gradeB,2,30.0
+Los Angeles,gradeD,4,10.0
+San Francisco,gradeC,6,10.0
+Columbus,gradeC,7,20.0
+New York,gradeC,9,50.0
+Fort Worth,gradeB,8,10.0
+El Paso,gradeC,1,50.0
+New York,gradeA,7,20.0
+Washington D.C.,gradeC,8,10.0
+Memphis,gradeA,3,30.0
+Phoenix,gradeC,10,10.0
+Jacksonville,gradeD,7,50.0
+Memphis,gradeB,9,20.0
+San Diego,gradeA,7,20.0
+Charlotte,gradeB,10,30.0
+Austin,gradeD,10,10.0
+Dallas,gradeB,1,20.0
+Baltimore,gradeA,4,30.0
+Boston,gradeD,2,50.0
+Charlotte,gradeB,1,10.0
+Chicago,gradeC,7,30.0
+Jacksonville,gradeB,3,30.0
+Memphis,gradeB,1,10.0
+Detroit,gradeD,3,30.0
+Austin,gradeB,9,10.0
+Phoenix,gradeB,4,50.0
+Los Angeles,gradeB,1,10.0
+Washington D.C.,gradeD,10,10.0
+San Antonio,gradeC,7,30.0
+Detroit,gradeC,6,30.0
+Dallas,gradeA,10,20.0
+San Diego,gradeC,9,10.0
+Dallas,gradeC,10,10.0
+San Antonio,gradeA,5,10.0
+Denver,gradeC,3,50.0
+Denver,gradeB,6,10.0
+Charlotte,gradeB,4,10.0
+Austin,gradeA,1,30.0
+San Jose,gradeA,1,30.0
+San Antonio,gradeD,5,20.0
+Los Angeles,gradeB,10,20.0
+Dallas,gradeB,7,10.0
+Austin,gradeB,5,30.0
+Fort Worth,gradeB,2,30.0
+Houston,gradeD,5,20.0
+San Diego,gradeB,1,30.0
+Dallas,gradeA,6,10.0
+Phoenix,gradeB,10,50.0
+Memphis,gradeD,3,50.0
+Houston,gradeB,4,30.0
+Phoenix,gradeD,3,20.0
+Los Angeles,gradeA,5,30.0
+Memphis,gradeB,2,20.0
+Dallas,gradeB,1,50.0
+Detroit,gradeD,4,30.0
+Dallas,gradeA,1,20.0
+Washington D.C.,gradeC,10,50.0
+Baltimore,gradeB,2,50.0
+New York,gradeD,9,50.0
+Seattle,gradeC,9,10.0
+Los Angeles,gradeD,5,20.0
+San Antonio,gradeB,9,20.0
+New York,gradeB,8,50.0
+Phoenix,gradeB,2,10.0
+Los Angeles,gradeB,8,20.0
+San Diego,gradeA,1,30.0
+Memphis,gradeA,6,20.0
+San Jose,gradeA,2,20.0
+Austin,gradeC,3,10.0
+Memphis,gradeB,9,20.0
+New York,gradeB,3,10.0
+Austin,gradeB,2,20.0
+Seattle,gradeA,5,50.0
+Chicago,gradeA,4,30.0
+Chicago,gradeD,6,30.0
+San Jose,gradeD,3,20.0
+Denver,gradeB,3,50.0
+Dallas,gradeD,10,20.0
+Indianapolis,gradeB,4,50.0
+San Diego,gradeA,9,50.0
+Boston,gradeD,7,30.0
+Phoenix,gradeD,4,50.0
+San Francisco,gradeA,3,30.0
+New York,gradeB,1,50.0
+Seattle,gradeB,1,20.0
+Fort Worth,gradeD,2,10.0
+Seattle,gradeD,2,10.0
+El Paso,gradeB,2,30.0
+San Jose,gradeC,1,10.0
+Detroit,gradeD,8,30.0
+Detroit,gradeA,3,10.0
+Austin,gradeC,2,10.0
+Dallas,gradeA,8,20.0
+Denver,gradeA,8,10.0
+Los Angeles,gradeC,9,10.0
+Houston,gradeC,2,30.0
+El Paso,gradeD,6,20.0
+San Jose,gradeD,7,20.0
+Memphis,gradeB,9,20.0
+Jacksonville,gradeA,8,20.0
+San Diego,gradeA,8,50.0
+Indianapolis,gradeC,1,30.0
+San Diego,gradeD,4,50.0
+Memphis,gradeC,1,50.0
+San Antonio,gradeA,8,20.0
+Boston,gradeC,3,20.0
+Philadelphia,gradeC,3,50.0
+Philadelphia,gradeD,1,50.0
+Indianapolis,gradeC,7,20.0
+Memphis,gradeA,1,20.0
+San Jose,gradeA,4,30.0
+Jacksonville,gradeA,10,50.0
+Seattle,gradeB,5,10.0
+Columbus,gradeD,10,50.0
+San Antonio,gradeD,2,20.0
+San Jose,gradeC,4,50.0
+San Francisco,gradeC,5,30.0
+Washington D.C.,gradeA,7,10.0
+Jacksonville,gradeA,6,50.0
+Indianapolis,gradeA,5,20.0
+Philadelphia,gradeD,10,10.0
+Los Angeles,gradeC,9,20.0
+Houston,gradeD,8,20.0
+El Paso,gradeA,8,30.0
+Jacksonville,gradeB,4,10.0
+San Jose,gradeB,6,10.0
+San Jose,gradeD,4,10.0
+San Antonio,gradeA,8,10.0
+Dallas,gradeD,4,30.0
+Philadelphia,gradeA,4,50.0
+Chicago,gradeC,5,30.0
+Austin,gradeD,1,30.0
+Houston,gradeD,8,30.0
+Seattle,gradeA,4,10.0
+Los Angeles,gradeD,6,30.0
+Denver,gradeD,5,10.0
+Detroit,gradeB,2,20.0
+Charlotte,gradeC,8,30.0
+Austin,gradeB,1,10.0
+Jacksonville,gradeD,4,10.0
+Houston,gradeD,1,10.0
+Jacksonville,gradeA,10,50.0
+Detroit,gradeB,7,50.0
+Los Angeles,gradeD,3,50.0
+El Paso,gradeC,8,20.0
+Austin,gradeD,10,10.0
+Philadelphia,gradeA,4,30.0
+Charlotte,gradeA,1,50.0
+Chicago,gradeC,4,20.0
+New York,gradeA,2,10.0
+Detroit,gradeD,4,50.0
+Phoenix,gradeD,1,10.0
+Chicago,gradeA,4,10.0
+Austin,gradeD,4,30.0
+San Jose,gradeA,6,20.0
+Washington D.C.,gradeB,9,20.0
+Detroit,gradeC,8,10.0
+Memphis,gradeC,5,20.0
+Denver,gradeD,2,50.0
+Philadelphia,gradeC,4,30.0
+El Paso,gradeD,4,30.0
+Seattle,gradeA,4,10.0
+Philadelphia,gradeC,5,10.0
+San Antonio,gradeA,8,20.0
+Houston,gradeC,6,20.0
+Jacksonville,gradeB,7,10.0
+El Paso,gradeC,7,50.0
+Los Angeles,gradeD,9,10.0
+Dallas,gradeA,9,20.0
+Phoenix,gradeB,9,30.0
+Detroit,gradeC,10,30.0
+Baltimore,gradeA,3,30.0
+New York,gradeA,10,10.0
+Austin,gradeB,1,50.0
+Boston,gradeA,6,20.0
+El Paso,gradeC,7,20.0
+Phoenix,gradeC,5,20.0
+Los Angeles,gradeD,6,10.0
+Los Angeles,gradeC,2,20.0
+Los Angeles,gradeA,4,30.0
+San Jose,gradeB,4,10.0
+Austin,gradeA,8,10.0
+New York,gradeD,9,10.0
+San Francisco,gradeC,7,50.0
+Fort Worth,gradeC,9,10.0
+Memphis,gradeC,10,20.0
+Dallas,gradeA,6,50.0
+Denver,gradeB,4,10.0
+Boston,gradeD,4,30.0
+Houston,gradeC,1,10.0
+Dallas,gradeD,7,30.0
+Charlotte,gradeD,9,20.0
+Memphis,gradeA,7,30.0
+San Diego,gradeB,4,10.0
+Jacksonville,gradeA,6,20.0
+San Francisco,gradeC,9,20.0
+Boston,gradeB,1,50.0
+San Francisco,gradeC,9,50.0
+San Francisco,gradeD,1,20.0
+Seattle,gradeC,8,10.0
+Dallas,gradeD,6,30.0
+Austin,gradeB,5,10.0
+San Francisco,gradeB,6,30.0
+Boston,gradeD,9,20.0
+San Jose,gradeD,6,30.0
+Columbus,gradeB,4,20.0
+Denver,gradeD,10,20.0
+Boston,gradeA,6,30.0
+New York,gradeA,4,30.0
+Seattle,gradeC,5,10.0
+Dallas,gradeC,8,30.0
+Washington D.C.,gradeA,7,10.0
+Philadelphia,gradeC,7,30.0
+Dallas,gradeA,4,10.0
+New York,gradeA,5,50.0
+Austin,gradeC,7,50.0
+Denver,gradeC,9,20.0
+Phoenix,gradeD,9,50.0
+Philadelphia,gradeC,7,10.0
+El Paso,gradeA,7,50.0
+Seattle,gradeA,2,50.0
+San Antonio,gradeD,5,10.0
+Los Angeles,gradeB,4,50.0
+Charlotte,gradeB,3,50.0
+San Diego,gradeB,6,30.0
+Baltimore,gradeA,8,30.0
+Baltimore,gradeC,2,10.0
+Dallas,gradeD,2,10.0
+Chicago,gradeB,3,10.0
+Phoenix,gradeD,10,10.0
+Memphis,gradeA,10,30.0
+San Jose,gradeB,9,10.0
+Seattle,gradeB,7,20.0
+San Antonio,gradeC,7,10.0
+Memphis,gradeD,4,10.0
+Fort Worth,gradeB,3,20.0
+San Diego,gradeA,8,10.0
+Boston,gradeA,10,50.0
+Jacksonville,gradeC,4,50.0
+San Diego,gradeB,1,10.0
+Columbus,gradeC,9,50.0
+Austin,gradeB,8,10.0
+Philadelphia,gradeA,2,50.0
+Philadelphia,gradeD,5,20.0
+San Francisco,gradeC,5,50.0
+El Paso,gradeB,4,50.0
+Dallas,gradeC,4,20.0
+Charlotte,gradeB,7,20.0
+Memphis,gradeA,9,50.0
+El Paso,gradeC,4,20.0
+San Francisco,gradeC,1,20.0
+Indianapolis,gradeD,5,50.0
+Memphis,gradeC,10,20.0
+San Diego,gradeD,2,10.0
+Houston,gradeD,10,50.0
+Chicago,gradeD,10,10.0
+Jacksonville,gradeA,5,10.0
+San Antonio,gradeB,6,20.0
+Austin,gradeA,8,10.0
+San Antonio,gradeC,10,30.0
+El Paso,gradeA,2,50.0
+Dallas,gradeB,1,30.0
+Seattle,gradeC,8,30.0
+Los Angeles,gradeB,6,20.0
+Seattle,gradeD,10,30.0
+Baltimore,gradeB,1,20.0
+Fort Worth,gradeD,3,30.0
+San Jose,gradeD,3,10.0
+Los Angeles,gradeA,2,20.0
+Memphis,gradeA,10,20.0
+Baltimore,gradeA,9,50.0
+Dallas,gradeA,4,30.0
+Denver,gradeD,2,10.0
+Indianapolis,gradeD,6,20.0
+Detroit,gradeA,10,10.0
+San Francisco,gradeC,1,50.0
+San Francisco,gradeB,3,50.0
+New York,gradeA,5,20.0
+Fort Worth,gradeD,7,10.0
+Los Angeles,gradeA,8,50.0
+Washington D.C.,gradeA,3,10.0
+New York,gradeC,9,50.0
+San Antonio,gradeC,3,10.0
+San Francisco,gradeC,1,30.0
+San Diego,gradeA,3,10.0
+Charlotte,gradeA,6,50.0
+Jacksonville,gradeC,4,10.0
+Los Angeles,gradeB,4,30.0
+Washington D.C.,gradeA,4,10.0
+San Francisco,gradeA,9,30.0
+San Francisco,gradeA,3,20.0
+Austin,gradeC,9,10.0
+Boston,gradeD,10,10.0
+Washington D.C.,gradeC,9,10.0
+Seattle,gradeC,9,20.0
+Chicago,gradeA,8,20.0
+Denver,gradeD,7,20.0
+El Paso,gradeA,10,20.0
+Los Angeles,gradeD,3,10.0
+Columbus,gradeC,1,20.0
+Seattle,gradeA,3,10.0
+San Jose,gradeD,8,10.0
+New York,gradeD,1,10.0
+San Diego,gradeA,2,10.0
+Chicago,gradeA,7,50.0
+San Francisco,gradeC,7,20.0
+Boston,gradeB,4,20.0
+Phoenix,gradeD,8,20.0
+Indianapolis,gradeC,8,10.0
+Houston,gradeD,7,20.0
+Memphis,gradeB,2,50.0
+New York,gradeC,5,20.0
+Los Angeles,gradeB,6,20.0
+Washington D.C.,gradeA,6,30.0
+Houston,gradeB,1,20.0
+Washington D.C.,gradeA,9,20.0
+San Jose,gradeC,7,30.0
+Charlotte,gradeD,2,50.0
+Phoenix,gradeA,8,50.0
+New York,gradeC,2,10.0
+Indianapolis,gradeB,10,20.0
+Washington D.C.,gradeA,9,50.0
+Indianapolis,gradeA,7,10.0
+Washington D.C.,gradeA,6,10.0
+Denver,gradeA,3,30.0
+Phoenix,gradeD,8,50.0
+New York,gradeA,10,30.0
+Phoenix,gradeA,5,30.0
+San Antonio,gradeD,7,30.0
+Jacksonville,gradeB,4,30.0
+Memphis,gradeD,1,20.0
+San Francisco,gradeA,5,20.0
+El Paso,gradeD,4,10.0
+Los Angeles,gradeC,8,30.0
+Philadelphia,gradeC,7,20.0
+Dallas,gradeA,6,30.0
+Columbus,gradeB,8,10.0
+Denver,gradeD,3,10.0
+Los Angeles,gradeB,7,10.0
+San Jose,gradeB,2,10.0
+El Paso,gradeA,9,50.0
+Dallas,gradeC,3,50.0
+Dallas,gradeA,6,10.0
+Denver,gradeC,8,30.0
+Jacksonville,gradeB,7,30.0
+Austin,gradeB,4,10.0
+Seattle,gradeB,2,30.0
+Denver,gradeD,2,10.0
+Dallas,gradeA,3,10.0
+San Diego,gradeA,2,30.0
+Fort Worth,gradeD,10,10.0
+Memphis,gradeA,3,10.0
+Chicago,gradeA,3,10.0
+San Francisco,gradeD,2,10.0
+New York,gradeA,7,10.0
+San Francisco,gradeA,4,30.0
+San Diego,gradeA,7,50.0
+San Diego,gradeB,6,20.0
+Columbus,gradeA,5,10.0
+Philadelphia,gradeA,4,20.0
+Boston,gradeD,2,50.0
+Fort Worth,gradeC,7,20.0
+San Diego,gradeD,9,20.0
+Memphis,gradeD,3,10.0
+Indianapolis,gradeC,8,30.0
+Austin,gradeA,6,50.0
+Denver,gradeB,5,20.0
+New York,gradeD,3,30.0
+Phoenix,gradeD,3,30.0
+San Francisco,gradeB,3,10.0
+Phoenix,gradeA,5,50.0
+El Paso,gradeD,8,20.0
+Washington D.C.,gradeC,10,10.0
+Memphis,gradeB,9,30.0
+Jacksonville,gradeA,2,50.0
+Washington D.C.,gradeC,2,10.0
+Los Angeles,gradeB,9,20.0
+Houston,gradeA,3,30.0
+Seattle,gradeC,2,10.0
+San Diego,gradeA,5,50.0
+Philadelphia,gradeB,3,20.0
+Jacksonville,gradeB,1,50.0
+Detroit,gradeA,10,50.0
+Detroit,gradeD,10,30.0
+Philadelphia,gradeB,6,50.0
+Los Angeles,gradeB,9,50.0
+Philadelphia,gradeB,10,10.0
+New York,gradeB,5,50.0
+Baltimore,gradeB,4,20.0
+Boston,gradeD,3,30.0
+Baltimore,gradeD,9,50.0
+San Antonio,gradeB,3,30.0
+Dallas,gradeB,7,50.0
+Memphis,gradeD,2,50.0
+Houston,gradeC,10,20.0
+Dallas,gradeD,9,50.0
+Washington D.C.,gradeA,10,30.0
+Indianapolis,gradeC,5,30.0
+San Francisco,gradeA,1,50.0
+Jacksonville,gradeB,10,50.0
+New York,gradeB,5,10.0
+Jacksonville,gradeC,1,30.0
+Fort Worth,gradeD,2,50.0
+New York,gradeD,1,10.0
+Austin,gradeD,7,20.0
+Boston,gradeC,9,10.0
+San Jose,gradeC,5,30.0
+San Antonio,gradeA,9,20.0
+Austin,gradeB,8,30.0
+Boston,gradeC,7,50.0
+Austin,gradeC,6,30.0
+Washington D.C.,gradeA,8,20.0
+San Diego,gradeC,6,20.0
+Jacksonville,gradeD,10,20.0
+Memphis,gradeB,2,50.0
+Chicago,gradeD,4,50.0
+Phoenix,gradeD,10,50.0
+Memphis,gradeA,4,10.0
+Chicago,gradeA,5,50.0
+Chicago,gradeD,3,10.0
+Washington D.C.,gradeA,5,50.0
+Jacksonville,gradeD,10,50.0
+Jacksonville,gradeD,4,30.0
+Columbus,gradeB,4,50.0
+San Jose,gradeA,5,50.0
+Boston,gradeB,3,30.0
+Seattle,gradeA,8,10.0
+Denver,gradeD,7,30.0
+Washington D.C.,gradeD,10,30.0
+Denver,gradeA,3,10.0
+Philadelphia,gradeA,2,20.0
+Boston,gradeA,1,20.0
+Denver,gradeA,4,50.0
+Seattle,gradeC,7,30.0
+Philadelphia,gradeB,8,50.0
+New York,gradeA,4,20.0
+San Antonio,gradeB,7,30.0
+Los Angeles,gradeA,2,10.0
+Chicago,gradeD,3,10.0
+Phoenix,gradeA,9,10.0
+El Paso,gradeB,10,20.0
+Charlotte,gradeA,1,20.0
+San Antonio,gradeB,2,10.0
+Denver,gradeC,7,20.0
+Dallas,gradeA,6,30.0
+Indianapolis,gradeD,3,30.0
+Detroit,gradeB,7,50.0
+Los Angeles,gradeA,3,10.0
+Houston,gradeB,1,50.0
+San Diego,gradeC,10,30.0
+San Antonio,gradeB,3,30.0
+Seattle,gradeC,3,50.0
+Washington D.C.,gradeD,1,20.0
+Denver,gradeD,1,30.0
+Philadelphia,gradeA,4,50.0
+Jacksonville,gradeC,10,30.0
+Charlotte,gradeB,10,10.0
+El Paso,gradeD,3,10.0
+Chicago,gradeC,5,10.0
+San Diego,gradeD,7,10.0
+Indianapolis,gradeD,3,10.0
+Washington D.C.,gradeC,10,50.0
+San Antonio,gradeC,1,30.0
+Seattle,gradeC,10,30.0
+El Paso,gradeC,3,30.0
+Houston,gradeD,4,30.0
+Boston,gradeC,3,20.0
+Baltimore,gradeA,5,30.0
+San Francisco,gradeB,2,20.0
+Houston,gradeA,7,20.0
+Baltimore,gradeB,9,50.0
+Austin,gradeB,8,50.0
+Boston,gradeD,9,30.0
+Seattle,gradeB,7,50.0
+Jacksonville,gradeA,9,10.0
+Columbus,gradeC,3,10.0
+El Paso,gradeB,9,20.0
+Phoenix,gradeD,2,10.0
+Phoenix,gradeD,5,50.0
+Houston,gradeB,1,50.0
+Chicago,gradeD,4,20.0
+Baltimore,gradeD,6,10.0
+Washington D.C.,gradeC,5,20.0
+Charlotte,gradeA,10,50.0
+Los Angeles,gradeC,4,50.0
+Memphis,gradeD,5,20.0
+Detroit,gradeA,3,50.0
+Seattle,gradeB,3,20.0
+San Francisco,gradeB,3,30.0
+Phoenix,gradeD,6,20.0
+Seattle,gradeD,10,20.0
+Jacksonville,gradeB,9,50.0
+Boston,gradeA,3,10.0
+Austin,gradeA,2,20.0
+Detroit,gradeA,8,50.0
+Dallas,gradeD,8,10.0
+Philadelphia,gradeA,9,10.0
+Charlotte,gradeA,5,20.0
+Seattle,gradeD,1,30.0
+El Paso,gradeC,2,50.0
+Washington D.C.,gradeD,6,50.0
+San Antonio,gradeC,10,10.0
+San Antonio,gradeA,1,10.0
+Washington D.C.,gradeA,2,20.0
+Houston,gradeC,9,20.0
+Washington D.C.,gradeB,4,50.0
+Washington D.C.,gradeB,8,10.0
+Charlotte,gradeC,3,20.0
+Seattle,gradeC,2,20.0
+Austin,gradeB,8,10.0
+San Francisco,gradeB,1,50.0
+San Francisco,gradeB,6,20.0
+Detroit,gradeB,2,50.0
+Columbus,gradeC,4,30.0
+Fort Worth,gradeA,9,30.0
+New York,gradeB,1,10.0
+Houston,gradeC,3,20.0
+Charlotte,gradeA,9,50.0
+New York,gradeA,8,30.0
+Phoenix,gradeB,1,20.0
+San Antonio,gradeD,9,20.0
+Philadelphia,gradeB,7,30.0
+Philadelphia,gradeA,2,50.0
+Boston,gradeA,4,10.0
+Jacksonville,gradeC,8,50.0
+Detroit,gradeC,9,30.0
+Columbus,gradeC,3,20.0
+El Paso,gradeC,1,30.0
+Austin,gradeD,4,20.0
+Phoenix,gradeD,6,30.0
+San Antonio,gradeD,10,20.0
+San Jose,gradeD,4,50.0
+Columbus,gradeC,2,30.0
+San Antonio,gradeB,5,20.0
+Columbus,gradeD,4,10.0
+Phoenix,gradeA,9,20.0
+El Paso,gradeD,6,10.0
+Indianapolis,gradeB,8,30.0
+San Antonio,gradeB,5,20.0
+Washington D.C.,gradeD,9,10.0
+New York,gradeC,6,20.0
+Seattle,gradeD,9,20.0
+Chicago,gradeC,4,10.0
+Phoenix,gradeB,9,20.0
+Fort Worth,gradeC,10,50.0
+Washington D.C.,gradeC,4,30.0
+Jacksonville,gradeD,7,30.0
+Denver,gradeB,9,50.0
+Houston,gradeA,3,10.0
+Philadelphia,gradeC,8,50.0
+San Francisco,gradeC,4,50.0
+Boston,gradeC,5,50.0
+Seattle,gradeB,8,10.0
+Dallas,gradeB,5,20.0
+San Antonio,gradeD,3,30.0
+Austin,gradeC,9,30.0
+Memphis,gradeA,7,10.0
+San Diego,gradeA,6,50.0
+Dallas,gradeA,3,50.0
+Baltimore,gradeC,9,20.0
+New York,gradeB,5,10.0
+Houston,gradeD,4,10.0
+Boston,gradeC,2,20.0
+Columbus,gradeD,2,10.0
+Houston,gradeB,8,30.0
+Charlotte,gradeA,7,20.0
+Chicago,gradeC,2,20.0
+Seattle,gradeC,6,10.0
+Baltimore,gradeB,4,50.0
+Washington D.C.,gradeA,9,30.0
+Memphis,gradeA,4,30.0
+Chicago,gradeB,3,10.0
+San Antonio,gradeD,8,20.0
+Charlotte,gradeA,8,20.0
+El Paso,gradeB,3,20.0
+Charlotte,gradeB,10,50.0
+Jacksonville,gradeA,10,30.0
+Seattle,gradeB,3,20.0
+Phoenix,gradeA,1,30.0
+Phoenix,gradeA,2,10.0
+Denver,gradeD,3,50.0
+New York,gradeA,4,20.0
+Memphis,gradeA,8,20.0
+San Diego,gradeB,6,50.0
+Austin,gradeD,9,10.0
+Chicago,gradeD,7,50.0
+El Paso,gradeD,9,20.0
+Denver,gradeB,4,50.0
+Houston,gradeC,10,20.0
+Philadelphia,gradeB,4,50.0
+Memphis,gradeD,6,30.0
+Chicago,gradeB,6,30.0
+Houston,gradeA,3,50.0
+Detroit,gradeA,2,20.0
+Washington D.C.,gradeA,2,20.0
+Jacksonville,gradeA,4,10.0
+Los Angeles,gradeD,8,50.0
+Houston,gradeD,8,20.0
+Boston,gradeA,7,30.0
+Boston,gradeA,1,30.0
+Fort Worth,gradeA,6,20.0
+Columbus,gradeB,6,10.0
+San Jose,gradeA,6,10.0
+Phoenix,gradeA,8,30.0
+Washington D.C.,gradeB,9,50.0
+Houston,gradeB,10,20.0
+Memphis,gradeC,1,30.0
+Boston,gradeD,1,10.0
+Austin,gradeC,3,50.0
+Columbus,gradeA,5,10.0
+Boston,gradeC,9,10.0
+Chicago,gradeD,4,20.0
+Washington D.C.,gradeC,9,50.0
+San Jose,gradeA,7,30.0
+Columbus,gradeD,10,30.0
+El Paso,gradeA,1,30.0
+Indianapolis,gradeB,1,50.0
+Seattle,gradeC,10,10.0
+Fort Worth,gradeD,4,10.0
+El Paso,gradeA,5,10.0
+San Jose,gradeC,4,20.0
+Seattle,gradeA,10,30.0
+San Antonio,gradeD,6,30.0
+San Antonio,gradeB,4,50.0
+Austin,gradeA,1,10.0
+Seattle,gradeB,3,50.0
+Columbus,gradeD,10,10.0
+Baltimore,gradeD,7,10.0
+Columbus,gradeA,9,20.0
+Indianapolis,gradeD,7,20.0
+San Antonio,gradeA,9,20.0
+Austin,gradeA,3,10.0
+Los Angeles,gradeB,2,30.0
+San Francisco,gradeD,10,20.0
+Jacksonville,gradeA,2,10.0
+San Francisco,gradeC,6,10.0
+Washington D.C.,gradeC,2,20.0
+San Antonio,gradeC,6,50.0
+San Francisco,gradeA,1,20.0
+New York,gradeC,8,20.0
+Houston,gradeB,5,10.0
+Phoenix,gradeB,7,10.0
+Philadelphia,gradeB,5,50.0
+New York,gradeD,9,30.0
+Fort Worth,gradeD,6,20.0
+Memphis,gradeB,8,30.0
+Dallas,gradeB,4,30.0
+San Francisco,gradeD,7,30.0
+Indianapolis,gradeA,2,20.0
+Austin,gradeD,9,10.0
+San Diego,gradeC,2,10.0
+San Francisco,gradeA,7,20.0
+Houston,gradeB,7,30.0
+Houston,gradeB,10,50.0
+New York,gradeC,5,30.0
+Washington D.C.,gradeB,9,30.0
+New York,gradeD,3,50.0
+Memphis,gradeA,4,30.0
+Philadelphia,gradeD,2,50.0
+Los Angeles,gradeA,6,10.0
+San Jose,gradeC,1,50.0
+Fort Worth,gradeD,7,10.0
+Chicago,gradeA,2,20.0
+San Jose,gradeC,3,30.0
+Phoenix,gradeD,7,20.0
+San Antonio,gradeD,6,30.0
+San Antonio,gradeB,2,30.0
+Phoenix,gradeB,2,20.0
+Detroit,gradeD,3,30.0
+San Jose,gradeB,1,20.0
+Philadelphia,gradeA,5,20.0
+Austin,gradeC,1,50.0
+San Diego,gradeB,1,10.0
+Chicago,gradeC,2,30.0
+Seattle,gradeC,9,10.0
+Phoenix,gradeB,7,20.0
+Washington D.C.,gradeB,3,20.0
+Jacksonville,gradeA,2,30.0
+Washington D.C.,gradeD,10,50.0
+Dallas,gradeD,3,20.0
+San Diego,gradeA,5,50.0
+Jacksonville,gradeB,5,20.0
+Jacksonville,gradeA,3,10.0
+Memphis,gradeC,10,20.0
+San Jose,gradeD,6,10.0
+Washington D.C.,gradeC,8,10.0
+Houston,gradeA,3,30.0
+Austin,gradeD,1,30.0
+Philadelphia,gradeC,8,20.0
+El Paso,gradeB,6,10.0
+Phoenix,gradeB,4,30.0
+Houston,gradeB,6,30.0
+San Antonio,gradeB,8,20.0
+Memphis,gradeA,6,50.0
+Fort Worth,gradeB,1,30.0
+Memphis,gradeA,5,50.0
+San Jose,gradeA,5,30.0
+Philadelphia,gradeD,6,50.0
+Philadelphia,gradeD,4,30.0
+San Francisco,gradeB,5,50.0
+Denver,gradeA,5,50.0
+Denver,gradeD,6,50.0
+Washington D.C.,gradeA,1,30.0
+Dallas,gradeA,7,50.0
+Fort Worth,gradeB,3,10.0
+Charlotte,gradeB,7,10.0
+Fort Worth,gradeC,8,30.0
+Detroit,gradeC,4,20.0
+Los Angeles,gradeB,10,20.0
+Indianapolis,gradeD,9,30.0
+Indianapolis,gradeD,10,20.0
+San Diego,gradeC,1,30.0
+Denver,gradeC,2,10.0
+Indianapolis,gradeA,3,50.0
+Houston,gradeA,9,50.0
+Charlotte,gradeA,7,30.0
+Philadelphia,gradeC,1,10.0
+Dallas,gradeC,1,30.0
+Charlotte,gradeB,8,50.0
+El Paso,gradeB,4,20.0
+Boston,gradeA,6,30.0
+Fort Worth,gradeB,8,20.0
+Chicago,gradeA,1,10.0
+San Jose,gradeD,6,50.0
+Fort Worth,gradeC,6,10.0
+San Antonio,gradeA,4,20.0
+San Antonio,gradeB,9,20.0
+San Francisco,gradeA,7,10.0
+Dallas,gradeC,6,50.0
+Denver,gradeB,4,30.0
+San Diego,gradeC,1,20.0
+Indianapolis,gradeA,10,10.0
+Denver,gradeC,5,30.0
+San Antonio,gradeD,4,30.0
+Denver,gradeC,10,10.0
+Baltimore,gradeC,6,20.0
+Washington D.C.,gradeD,2,20.0
+San Jose,gradeA,1,10.0
+New York,gradeA,4,30.0
+San Diego,gradeD,7,20.0
+Denver,gradeB,4,10.0
+Boston,gradeC,5,20.0
+Fort Worth,gradeA,8,20.0
+Fort Worth,gradeC,7,30.0
+Charlotte,gradeA,1,50.0
+Boston,gradeA,1,10.0
+Boston,gradeA,1,30.0
+Baltimore,gradeB,7,20.0
+Houston,gradeB,7,30.0
+Washington D.C.,gradeA,5,50.0
+San Antonio,gradeD,7,50.0
+Phoenix,gradeA,6,30.0
+Memphis,gradeD,6,50.0
+Jacksonville,gradeB,7,30.0
+Fort Worth,gradeB,9,10.0
+Indianapolis,gradeA,4,10.0
+Seattle,gradeC,9,50.0
+Seattle,gradeD,4,50.0
+Los Angeles,gradeB,1,50.0
+Baltimore,gradeD,2,50.0
+San Antonio,gradeB,2,30.0
+Los Angeles,gradeB,7,30.0
+Los Angeles,gradeA,8,50.0
+Philadelphia,gradeB,6,10.0
+Phoenix,gradeC,6,30.0
+Dallas,gradeA,3,50.0
+New York,gradeD,1,30.0
+San Francisco,gradeB,1,20.0
+Fort Worth,gradeD,6,20.0
+San Jose,gradeD,8,20.0
+Denver,gradeD,10,50.0
+Chicago,gradeC,9,10.0
+Chicago,gradeA,9,20.0
+Phoenix,gradeA,6,30.0
+Indianapolis,gradeD,8,10.0
+San Jose,gradeC,7,30.0
+Fort Worth,gradeA,3,50.0
+San Diego,gradeC,7,50.0
+Chicago,gradeD,2,50.0
+Philadelphia,gradeB,8,50.0
+Fort Worth,gradeB,6,30.0
+New York,gradeD,8,20.0
+San Jose,gradeA,8,20.0
+Seattle,gradeC,3,20.0
+Fort Worth,gradeA,3,20.0
+Philadelphia,gradeA,9,10.0
+San Antonio,gradeA,1,10.0
+Houston,gradeC,3,20.0
+El Paso,gradeB,9,30.0
+Fort Worth,gradeA,9,10.0
+Columbus,gradeB,7,30.0
+San Jose,gradeC,5,50.0
+San Jose,gradeA,8,20.0
+San Jose,gradeB,6,30.0
+New York,gradeB,8,30.0
+San Antonio,gradeD,6,20.0
+Houston,gradeC,1,10.0
+Chicago,gradeD,3,10.0
+El Paso,gradeD,4,10.0
+Dallas,gradeD,6,50.0
+New York,gradeA,4,10.0
+Fort Worth,gradeC,9,30.0
+San Antonio,gradeD,1,30.0
+Philadelphia,gradeD,2,50.0
+Denver,gradeC,8,20.0
+Los Angeles,gradeD,4,20.0
+Memphis,gradeD,5,10.0
+Denver,gradeB,4,30.0
+Phoenix,gradeA,10,10.0
+Austin,gradeB,1,30.0
+Dallas,gradeB,9,30.0
+San Francisco,gradeC,8,50.0
+Indianapolis,gradeB,8,30.0
+Denver,gradeD,7,30.0
+Los Angeles,gradeA,7,20.0
+New York,gradeC,2,30.0
+San Antonio,gradeC,8,30.0
+Los Angeles,gradeC,1,30.0
+Chicago,gradeD,6,10.0
+San Jose,gradeA,8,10.0
+Memphis,gradeA,1,10.0
+Chicago,gradeC,9,50.0
+Memphis,gradeB,8,50.0
+Seattle,gradeC,10,30.0
+Jacksonville,gradeC,8,20.0
+Jacksonville,gradeA,1,50.0
+Los Angeles,gradeB,9,10.0
+Boston,gradeC,9,20.0
+Chicago,gradeD,7,30.0
+Austin,gradeA,5,20.0
+Detroit,gradeC,1,10.0
+Jacksonville,gradeB,10,20.0
+Jacksonville,gradeA,1,10.0
+Los Angeles,gradeC,8,30.0
+Los Angeles,gradeB,8,50.0
+New York,gradeC,7,30.0
+San Jose,gradeB,9,30.0
+Washington D.C.,gradeA,6,10.0
+Charlotte,gradeA,6,30.0
+San Jose,gradeB,4,20.0
+Detroit,gradeD,5,50.0
+New York,gradeA,6,20.0
+Fort Worth,gradeB,2,50.0
+Philadelphia,gradeD,9,10.0
+Austin,gradeC,1,10.0
+San Diego,gradeD,10,50.0
+San Diego,gradeA,3,30.0
+Fort Worth,gradeC,10,10.0
+San Antonio,gradeC,10,10.0
+Memphis,gradeA,4,30.0
+Memphis,gradeC,4,20.0
+El Paso,gradeD,5,50.0
+San Jose,gradeB,7,50.0
+Columbus,gradeB,5,30.0
+Philadelphia,gradeD,1,10.0
+San Jose,gradeD,9,20.0
+San Antonio,gradeA,8,50.0
+Memphis,gradeA,9,10.0
+Dallas,gradeA,5,20.0
+San Jose,gradeD,2,50.0
+Columbus,gradeC,9,20.0
+Washington D.C.,gradeA,9,20.0
+San Diego,gradeB,9,30.0
+New York,gradeA,6,20.0
+Baltimore,gradeC,9,50.0
+Chicago,gradeD,9,10.0
+Chicago,gradeD,5,30.0
+Phoenix,gradeB,10,50.0
+San Diego,gradeA,6,10.0
+Baltimore,gradeB,6,20.0
+New York,gradeC,4,20.0

@@ -46,7 +46,7 @@ class DataScienceConsultant:
         self.chat_conversation = ConversationChain(
             prompt=PROMPT,
             llm=self.chat,
-            verbose=True,
+            verbose=False,
             memory=memory,
             output_parser=StrOutputParser(),
         )
