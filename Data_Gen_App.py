@@ -16,7 +16,7 @@ load_dotenv()
 
 
 # setting up groq api key
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["GROQ_API_KEY"] = st.secrets.GROQ_API_KEY
 
 # chat set up
 GROQ_LLM = ChatGroq(temperature=0.5, model_name="llama3-8b-8192")
