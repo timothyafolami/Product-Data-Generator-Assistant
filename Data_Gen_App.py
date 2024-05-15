@@ -92,7 +92,12 @@ if st.session_state.messages[-1]["role"] != "assistant":
     # checking back with initiator
     initiate_ = initiator(CHAT_HISTORY)
     if initiate_ =='START':
-        data_generation_ = Data_Generator(CHAT_HISTORY)
-        if data_generation_ == "Data generated successfully!":
-            st.balloons()
-            st.balloons()
+        # save the chat history in a text file
+        with open('chat_history.txt', 'w') as f:
+            for item in CHAT_HISTORY:
+                f.write("%s\n" % item)
+        
+# creating a function that gets the chat history
+def get_chat_history():
+    chat_history = st.session_state.messages
+    return chat_history

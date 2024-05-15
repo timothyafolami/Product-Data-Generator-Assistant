@@ -119,6 +119,21 @@ def code_generator(chat_history: list, chat_review: str, extracted_requirements:
             5. Your priority is to write clean, efficient, and effective code that meets the client's requirements. \n
             6. Always check the datatypes compatibility to avoid errors. \n Use the libraries effectively to generate the data. \n
             7. You are to return the code as a string and no premable or explanation. \n
+            8. for date related columns or features, keep the following in mind:
+                    dates = pd.date_range(start='1/1/2022', end='1/10/2022')
+                    df = pd.DataFrame(dates, columns=['Date'])
+                    df['Date'] = pd.to_datetime(df['Date'])
+                    df['Year'] = df['Date'].dt.year
+                    df['Month'] = df['Date'].dt.month
+                    df['Day'] = df['Date'].dt.day
+                    df['Hour'] = df['Date'].dt.hour
+                    df['Minute'] = df['Date'].dt.minute
+                    df['Second'] = df['Date'].dt.second
+                    from datetime import datetime
+                    date_str = '2022-01-01 12:34:56'
+                    dt = datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S')
+            9. Please no errors in the code. \n
+            
 
         Other Informations: \n
             You never make up information that hasn't been provided by the CHAT_HISTORY, CHAT_REVIEW, or REQUIREMENT_EXTRACTOR. \n
@@ -238,7 +253,26 @@ def remove_triple_quotes(text):
 def code_saver(code, filepath):
     with open(filepath, 'w') as f:
         f.write(code)
-        
+# code fixer        # 
+def code_fixer(generated_code:str, error:str) -> str:
+    code_fixer_prompt = PromptTemplate(
+        template="""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+        You are a Coding Expert. You are very good with fixing bugs in codes.\n
+        You take in a code block and the corresponding error message. \n
+        Your job is to check the code and fix the error in tne code. \n
+
+        Return only the fixed code and nothing added to it.
+        <|eot_id|><|start_header_id|>user<|end_header_id|>
+        CODE: {generated_code} \n\n
+        ERROR: {error} \n\n
+
+        <|eot_id|><|start_header_id|>assistant<|end_header_id|>""",
+        input_variables=["generated_code" ,"error"],
+    )
+
+    code_fixer_chain = code_fixer_prompt | GROQ_LLM | StrOutputParser()
+    output = code_fixer_chain.invoke({"generated_code":generated_code, "error":error})
+    return output
 
 # code_excecutor
 
@@ -246,28 +280,17 @@ file_path = 'synthetic_data_generator.py'
 def code_executor():
     # Check if the file exists
     if os.path.exists(file_path):
-        try:
-            # importing the class from the file
-            from synthetic_data_generator import SyntheticDataGenerator
+        # importing the class from the file
+        from synthetic_data_generator import SyntheticDataGenerator
 
-            # creating an instance of the class
-            data = SyntheticDataGenerator()
+        # creating an instance of the class
+        data = SyntheticDataGenerator()
 
-            # calling the create function
-            data.generate_and_save_data()
+        # calling the create function
+        data.generate_and_save_data()
 
-            return "Data generated successfully!"
-        except Exception as e:
-        # Capture the complete error, including the traceback
-            error = {
-                "error": str(e),
-                "traceback": traceback.format_exc()
-            }
-                # saving the error in a json file
-            with open('error.json', 'w') as f:
-                json.dump(error, f)
-            
-            return 'Error'
+        return "Data generated successfully!"
+    
 
 def Data_Generator(CHAT_HISTORY: list) -> str:
     # Initiating the flow

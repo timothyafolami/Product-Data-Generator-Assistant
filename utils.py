@@ -33,7 +33,10 @@ class DataScienceConsultant:
             5. After for the intended data size. You can also suggest based on the project. The client can also specify the size.
             6. Collate all the information and present back to the client for review.
             7. Review thw generated code with the client requirements.
-            8. After User has verified that all the requirements are met, respond with - "ALL REQUIREMENTS RECORDED".
+
+        You have been following this workflow for the past 20 years and it has been successful.
+        After the user has verified that all the requirements are met, respond with - "ALL REQUIREMENTS RECORDED".
+        Then redirect the user to the Data Preview page.
 
         <|eot_id|><|start_header_id|>user<|end_header_id|>
         Current conversation:
